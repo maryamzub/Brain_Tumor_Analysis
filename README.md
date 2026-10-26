@@ -3,8 +3,6 @@
 ## Project overview
 This project analyses a brain-tumor dataset to summarize diagnosed patients, histology confirmation status, the most affected brain region for each tumor type, and treatment patterns by tumor type. The attached dashboard screenshots provide a visual reference for the analysis.
 
-> **Data note:** The analysis below was calculated from the supplied CSV file, which contains **10,000 patient records**. The overview screenshot displays a total of 680 patients, so its figures do not match the full CSV totals. This may reflect a dashboard filter, a different extract, or an earlier version of the data. Confirm the dashboard filters and data source before presenting the figures together.
-
 ## 1. Total diagnosed patients and confirmation status
 
 - **Total diagnosed patients/records:** 10,000
@@ -56,8 +54,6 @@ These figures describe treatment labels in the supplied dataset. They are not tr
 5. **Surgery** is the most frequently recorded treatment across all five tumor types.
 
 ## Dashboard screenshots
-
-The images below are included in this repository folder. Keep the image files alongside this `README.md` so they render correctly on GitHub.
 
 ### Overview dashboard
 ![Brain tumor overview dashboard](brain-tumor-overview.png)
